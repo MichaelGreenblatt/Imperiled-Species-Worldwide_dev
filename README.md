@@ -39,6 +39,8 @@ Map 6: Number of Imperiled Species by Country Population
 Map 7: Number of Imperiled Species by Country Land Area
 
 # Results & Discussion
+![Map 7_Imperiled Species by Country Land Areas](https://user-images.githubusercontent.com/98333734/167974831-17683bbd-e6f8-4ca6-89fa-61990b9e7dbd.png)
+
 These analyses and maps lead to some conclusions. From the maps, we see that countries with the largest populations and the highest population densities tend to have the most imperiled species. More notable is that we see that land area and geography have even stronger results. Specifically, the countries clustered around the equator and between the Tropic of Cancer and the Tropic of Capricorn tend to have the most imperiled species, while the countries closer to the poles generally have fewer imperiled species. This makes sense biologically since biodiversity is richest near the equator. What's also interesting is that the countries with smaller land areas tend to have the most imperiled species, which also makes sense intuitively - this is particularly true in the island nations in the Carribbean and Oceania, but we also see it in the smaller countries of Europe, central Africa, and Central America.
 
 Two outliers to note in the maps are Greenland, which has a small population and is categorized as high income, but it has a lot of imperiled species given its population, and India, which has a lot of imperiled species, a large population, and high population density, but its number of imperiled species given its population is small.
