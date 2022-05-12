@@ -14,7 +14,7 @@ All of the data is sourced from the United Nations Statistics Division (data.un.
 # Outputs
 There are 4 scripts produced in this project, as well as 15 graphs and a QGIS file with 7 maps.
 
-All of the scripts should be run in the order indicated below. The number is also written at the top of each script for convenience. For the best results, each script should be read section-by-section, except for the graphs in graphs.py, which should be read line-by-line.
+All of the scripts should be run in the order indicated below. The number is also written at the top of each script for convenience. For the best results when reading these scripts, each script should be read section-by-section, except for the graphs in graphs.py, which should be read line-by-line (outputs may not be right if an entire script is read at once).
 
 ## Script #1: countries.py
 This script imports most of the files to create a DataFrame of the variables that will be used as the basis for the analyses. Specifically, it imports files for the population, population density, land area, income group, and number of imperiled species variables. Each of those variables comes from a different file, except the population and population density variables are from the same file. The script also imports country number and country code variables, which are used for merges throughout this project. Finally, it also imports continent and region variables, which are used for categorizing countries geographically, and a country name variable so that we can see which country is being described.
